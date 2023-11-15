@@ -45,7 +45,8 @@ Give credit here.
 
 
 ## Contact
-Created by [@Ash4929] - feel free to contact me!
+Created by [https://ash4929.github.io/Lending_Club_Case_Study/] - feel free to contact me!
+
 
 
 <!-- Optional -->
